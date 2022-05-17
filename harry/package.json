@@ -1,0 +1,23 @@
+{
+  "name": "sucks",
+  "version": "1.0.0",
+  "description": "node tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohitRana-04/node-sucks.git"
+  },
+  "author": "pain",
+  
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohitRana-04/node-sucks/issues"
+  },
+  "homepage": "https://github.com/mohitRana-04/node-sucks#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
